@@ -1,0 +1,69 @@
+[
+  {
+    "query": "Deep Learning",
+    "timestamp": "2025-04-05T09:36:14.259117",
+    "key_concepts": [
+      "Deep Learning",
+      "Neural Networks",
+      "CNN Architectures",
+      "Applications of Deep Learning",
+      "Research Directions",
+      "Taxonomy of Deep Learning Techniques",
+      "Techniques and Taxonomy",
+      "Convolutional Neural Networks (CNNs)",
+      "Research Directions in Deep Learning"
+    ],
+    "top_sources": [
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques ...",
+        "url": "https://link.springer.com/article/10.1007/s42979-021-00815-1",
+        "score": 0.9325
+      },
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques ...",
+        "url": "https://link.springer.com/article/10.1007/s42979-021-00815-1",
+        "score": 0.9325
+      },
+      {
+        "title": "Deep Learning: A Comprehensive Overview on Techniques ...",
+        "url": "https://link.springer.com/article/10.1007/s42979-021-00815-1",
+        "score": 0.8934500000000001
+      }
+    ],
+    "summary": "Across the three research iterations, the understanding of deep learning evolved from a broad introduction to the field, including its techniques and applications, to a more in-depth analysis of specific architectures such as CNNs and their roles in various applications. The importance of understanding the concepts, techniques, and taxonomy of deep learning was consistently highlighted. The research findings showed a progression from general overviews to more specialized and technical insights, "
+  },
+  {
+    "query": "LLM for Image ",
+    "timestamp": "2025-04-26T20:24:01.410315",
+    "key_concepts": [
+      "Large Language Models (LLMs)",
+      "Image Understanding",
+      "Visual Data Representation",
+      "Scalable Vector Graphics (SVG)",
+      "Computer Vision",
+      "Multimodal Learning",
+      "Vision Transformers",
+      "Cross-Modality Learning",
+      "Image Generation",
+      "Visual Understanding"
+    ],
+    "top_sources": [
+      {
+        "title": "An Investigation on LLMs' Visual Understanding Ability Using SVG ...",
+        "url": "https://arxiv.org/html/2306.06094v2",
+        "score": 0.877
+      },
+      {
+        "title": "Multimodal Large Language Models for Image, Text, and Speech ...",
+        "url": "https://arxiv.org/html/2501.18648v2",
+        "score": 0.87
+      },
+      {
+        "title": "An Investigation on LLMs' Visual Understanding Ability Using SVG ...",
+        "url": "https://arxiv.org/html/2306.06094v2",
+        "score": 0.8494999999999999
+      }
+    ],
+    "summary": "The understanding of using Large Language Models (LLMs) for image tasks has evolved significantly across iterations. Initially, the focus was on exploring LLMs' ability to understand and interpret visual data, including images. As research progressed, the emphasis shifted to fine-tuning LLMs for specific image classification tasks, object detection, and image generation. The findings consistently highlighted the potential of LLMs in image analysis, with notable improvements in accuracy and effic"
+  }
+]
